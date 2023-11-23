@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hussain</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<marquee>Hussain raza</marquee>
+
 🎯 Exploring new technologies in software is one of my passions.
 
 🎓 To enhance my skills in the technology field, I am pursuing B.Tech in Information Technology at Manipal University Jaipur.
