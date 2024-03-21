@@ -9,6 +9,6 @@
 
 🌐 My journey in web development has equipped me with the ability to create immersive digital experiences, combining creativity with functionality to deliver user-centric solutions. 🖥️ 
 
-📚 Currently, I am delving into the realms of C++, eager to broaden my knowledge and expertise in software development. 📈 
+📚 Currently, I am delving into the realms of JavaScript, eager to broaden my knowledge and expertise in software development. 📈 
 
 ✉️ You can shoot me an email at mhrnaqvi17@gmail.com I'll try to respond as soon as possible.
